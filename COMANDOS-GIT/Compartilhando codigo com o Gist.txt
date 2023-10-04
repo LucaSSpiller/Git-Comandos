@@ -1,0 +1,13 @@
+Exemplo de uso: Quero compartilhar somente um trecho de codigo com alguem e não projeto inteiro, somente o trecho
+
+
+No github onde clico pra criar um novo repositorio (na setinha), tem uma opção chamada new gist, la coloco o codigo/arquivo/pasta que eu quero e compartilho o link do meu gist com quem eu quiser
+
+
+Na hora de criar o meu gist, tem a opção do gist privado e do gist publico
+
+No gist privado, somente eu posso compartilhar o link do meu gist
+E no gist publico, ele aparece na minha pagina do github
+
+
+E ao criar, a url da pagina que estou do meu gist, é a url de compartilhamento do meu gist

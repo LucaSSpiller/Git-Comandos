@@ -1,0 +1,18 @@
+Para baixar o commit do remoto para o local
+
+Exemplo de uso:
+
+Tenho um projeto que adicionei o José como colaborador,
+
+O primeiro commit do projeto quem deu foi EU
+
+Já o segundo commit quem fez foi o JOSÉ
+
+Ou seja, na minha máquina so tenho a versão do meu commit, não tenho a mudança que o José fez depois, so foi modificado remotamente(github)
+
+Para baixar no meu projeto local, a modificação presente remotamente, basta digitar no terminal "git pull origin main(nome da branch que estou)"
+
+
+
+
+Quando eu clono um repositório na minha máquina, para puxar ele de novo eu não clono novamente, eu dou um pull, git pull urlDoRepositorio
