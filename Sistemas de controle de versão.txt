@@ -1,4 +1,0 @@
-- CVS
-- SVN
-- Mercurial
-- GIT

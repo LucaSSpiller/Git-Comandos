@@ -1,5 +1,0 @@
-No Git Bash ou no CMD
-
-Para iniciar um repositorio git em qualquer pasta que eu quiser dentro do meu pc
-
-basta rodar o comando git init dentro da pasta, no terminal

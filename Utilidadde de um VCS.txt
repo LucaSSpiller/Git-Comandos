@@ -1,4 +1,0 @@
-- Permite armazenar as modificações feitas em cada arquivo em servidor próprio para isso.
-As gestão é feita pelo Git.
-
-- Cada alteração feita fica gravada em um histórico, podendo ser visualizada e restaurada a qualquer momento
