@@ -1,0 +1,4 @@
+Caso eu va fazer interação com o git numa maquina que eu nao esteja logado, antes de qualuqer interação eu devo:
+
+git config --local user.name "Meu usuário aqui"
+git config --local user.email "Meu@email.aqui"
