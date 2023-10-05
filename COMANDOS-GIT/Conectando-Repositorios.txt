@@ -1,7 +1,0 @@
-CONECTANDO REPOSITÓRIO LOCAL COM REPOSITÓRIO REMOTO
-
-Comando:
-git remote add origin url-do-repositorio
-
-
-OBS:. git pull -> pull é para sincronizar o conteudo do repositorio do github para o computador atual

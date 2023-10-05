@@ -1,7 +1,0 @@
-exemplo de situação: deletei alguma branch sem querer, removi um commit sem querer
-
-Se em algum momento foi commitada a alteração que eu "perdi" te como recuperar
-
-git reflog
-
-pronto, ja recupera

@@ -1,8 +1,0 @@
-Tenho  a branch desenvolvimento,e a branch main(principal)
-
-E eu quero mandar o que eu fiz na branch de desenvolvimento para a branch main
-
-
-Na minha branch principal, dou o comando git merge desenvolvimento(nome da branch que quero juntar)
-
-E depois dou o git push na branch main

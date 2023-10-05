@@ -1,6 +1,0 @@
-exemplo de situação: 
-to fazendo um projeto e quero gerar um zip desse projeto, porém somente das pastas gerenciadas pelo git, ou seja, aquele arquivo ou pasta que ta no git ignore eu não quero colocar no zip
-
-git tag entrega
-
-git archive entrega --format=zip --output=nome-do-arquivo.zip

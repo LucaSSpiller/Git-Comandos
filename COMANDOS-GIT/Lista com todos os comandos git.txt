@@ -1,3 +1,0 @@
-Lista com todos com todos os comandos git (Documentação oficial do git)
-
-https://comandosgit.github.io/

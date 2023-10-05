@@ -1,0 +1,110 @@
+Artigo da Alura Sobre Formatação em Markdown - https://shorturl.at/DFIR5
+
+Documentação Sobre MArkdown - https://wordpress.com/support/markdown-quick-reference/
+
+Documentação com dicas para escrever um arquivo README bom no github - https://shorturl.at/akNQX
+
+
+
+
+
+
+ARTIGO ALURA
+
+Como trabalhar com essa linguagem de markup?
+
+Markdown é um formato simples de markup(marcação de texto)
+
+
+Deixando texto em negrito:
+**textoEmNegrito**
+Ex de uso:
+Meu nome é **Luca**.
+
+Coloando um link dentro de um texto:
+[O link vai ser guardado dentro dessa frase](https://linkExemplar.com)
+Ex de uso:
+Aqui tem uma [página com os códigos mais frequentes](https://link) do Markdown
+
+
+
+EDITORES WEB QUE POSSO TESTAR MARKDOWN:
+Dillinger - https://dillinger.io/
+Markdown Preview - https://markdownlivepreview.com/
+MEditor - https://pandao.github.io/editor.md/en.html
+
+
+Também é possível testar o Markdown no VS Code
+Link da documentação do Markdown no VS: https://code.visualstudio.com/docs/languages/markdown
+
+
+
+
+DOCUMENTAÇÃO WORDPRESS MARKDOWN
+
+Comece cada linha com
+ dois espaços ou mais para
+ fazer o texto parecer
+ exatamente
+ como você digita
+
+
+=======================
+
+
+~~~~
+Isto é um
+pedaço de código
+em um bloco
+~~~~
+```
+Isto também
+```
+
+
+=====================
+
+
+Css no Markdown - Fica na formatação de css:
+```css
+#button {
+ border: none;
+}
+```
+
+
+====================
+
+Listas de definição - defino os blocos de texto:
+WordPress
+: Uma plataforma de publicação pessoal semântica
+Remarcação
+: Ferramenta de conversão de texto para HTML
+
+
+=======================
+
+Logotipo
+
+Logotipo: ![Alt](/wp.png "Título")
+
+
+==========================
+
+Logotipo Menor:
+Logotipo menor: ![Alt][1]
+[1]: /wp-smaller.png "Título"
+
+
+================
+
+
+*Enfatizar* _enfatizar_ 
+**Negrito** __Negrito__
+
+
+
+MAIS DETALHES NA DOCUMENTAÇÃO
+
+
+

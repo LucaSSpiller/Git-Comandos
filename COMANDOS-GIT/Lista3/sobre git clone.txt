@@ -1,0 +1,13 @@
+Posso tambem clonar o repositorio para uma pasta especifica selecionada na linha de codigo
+
+git clone <url repositorio> <pasta que eu quero>
+
+
+
+Posso tambem clonar um repositorio a partir de uma branch especifica:
+
+git clone -branch nomeBranch <url repositorio>
+
+
+
+Mais sobre git clone - https://git-scm.com/docs/git-clone
